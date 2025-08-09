@@ -141,7 +141,7 @@ from kiteconnect import KiteTicker
 logging.basicConfig(level=logging.DEBUG)
 
 # Initialise
-kws = KiteTicker("your_api_key", "your_access_token")
+kws = KiteTicker(s57ekpdsxxu6a1x4ldapvafx7lb1j1kj, "your_access_pom72uaolkby7us4)
 
 def on_ticks(ws, ticks):
     # Callback to receive ticks.
@@ -201,4 +201,3 @@ pdoc --html --html-dir docs kiteconnect
 [Check release notes](https://github.com/zerodha/pykiteconnect/releases)
 
 
-aap ise connect kare ji
